@@ -2,7 +2,7 @@
   "version": "1.5",
   "title": "Доступно обновление",
   "description": "Что нового: исправлены ошибки, добавлены новые функции.",
-  "imageUrl": "",
+  "imageUrl": "https://github.com/chechnya360-eng/app-update/blob/main/2026-11-11_10-41-58.png",
   "downloadUrl": "https://drive.google.com/file/d/ВАШ_ID/view",
   "forceUpdate": true,
   "showLimit": 0,
